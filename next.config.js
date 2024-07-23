@@ -8,4 +8,5 @@ const withNextra = require('nextra')({
     images: {
         unoptimized: true,
       },
+    output: 'export'
   }
